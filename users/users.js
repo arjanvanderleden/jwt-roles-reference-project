@@ -2,7 +2,7 @@ const users = [
     {  
         id: 1,
         name: "Arjan Sales",
-        email: "arjan-sales@reclamefolder.nl",
+        email: "arjan-sales@example.com",
         password: "--xx--",
         roles : "sales",
         retailerid:48
@@ -17,20 +17,20 @@ const users = [
     {  
         id: 3,
         name: "Arjan Admin",
-        email: "arjan-owner@reclamefolder.nl",
+        email: "arjan-owner@example.com",
         password: "--xx--",
         roles : "owner"
     },
     {  
         id: 4,
         name: "Arjan Developer",
-        email: "arjan-developer@reclamefolder.nl",
+        email: "arjan-developer@example.com",
         password: "--xx--",
         roles : "developer"
     },{  
         id: 5,
         name: "Arjan Mixed",
-        email: "arjan-mixed@reclamefolder.nl",
+        email: "arjan-mixed@example.com",
         password: "--xx--",
         roles : "sales;premium-retailer",
         retailerid:48
